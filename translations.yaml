@@ -1,0 +1,26 @@
+en:
+  prompt_range_start: "Enter the start of the range to generate random numbers from:"
+  prompt_range_end: "Enter the end of the range to generate random numbers from:"
+  prompt_amount: "Enter the amount of random numbers to generate:"
+  prompt_time_delay: "Enter the time delay in seconds to show each random number to the user:"
+  prompt_guess: "What is your guess?"
+  correct_guess: "Correct!"
+  incorrect_guess: "Incorrect. The correct answer is: "
+
+el:
+  prompt_range_start: "Εισαγάγετε την αρχή του εύρους από το οποίο θα δημιουργηθούν τυχαίοι αριθμοί:"
+  prompt_range_end: "Εισαγάγετε το τέλος του εύρους από το οποίο θα δημιουργηθούν τυχαίοι αριθμοί:"
+  prompt_amount: "Εισαγάγετε τον αριθμό των τυχαίων αριθμών που θα δημιουργηθούν:"
+  prompt_time_delay: "Εισαγάγετε την καθυστέρηση χρόνου σε δευτερόλεπτα για να εμφανίζεται κάθε τυχαίος αριθμός στον χρήστη:"
+  prompt_guess: "Ποια είναι η εικασία σας;"
+  correct_guess: "Σωστά!"
+  incorrect_guess: "Λάθος. Η σωστή απάντηση είναι: "
+
+fr:
+  prompt_range_start: "Εισαγάγετε την αρχή του εύρους από το οποίο θα δημιουργηθούν τυχαίοι αριθμοί:"
+  prompt_range_end: "Εισαγάγετε το τέλος του εύρους από το οποίο θα δημιουργηθούν τυχαίοι αριθμοί:"
+  prompt_amount: "Εισαγάγετε τον αριθμό των τυχαίων αριθμών που θα δημιουργηθούν:"
+  prompt_time_delay: "Εισαγάγετε την καθυστέρηση χρόνου σε δευτερόλεπτα για να εμφανίζεται κάθε τυχαίος αριθμός στον χρήστη:"
+  prompt_guess: "Ποια είναι η εικασία σας;"
+  correct_guess: "Σωστά!"
+  incorrect_guess: "Λάθος. Η σωστή απάντηση είναι: "
