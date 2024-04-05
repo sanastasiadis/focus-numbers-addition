@@ -17,10 +17,10 @@ el:
   incorrect_guess: "Λάθος. Η σωστή απάντηση είναι: "
 
 fr:
-  prompt_range_start: "Εισαγάγετε την αρχή του εύρους από το οποίο θα δημιουργηθούν τυχαίοι αριθμοί:"
-  prompt_range_end: "Εισαγάγετε το τέλος του εύρους από το οποίο θα δημιουργηθούν τυχαίοι αριθμοί:"
-  prompt_amount: "Εισαγάγετε τον αριθμό των τυχαίων αριθμών που θα δημιουργηθούν:"
-  prompt_time_delay: "Εισαγάγετε την καθυστέρηση χρόνου σε δευτερόλεπτα για να εμφανίζεται κάθε τυχαίος αριθμός στον χρήστη:"
-  prompt_guess: "Ποια είναι η εικασία σας;"
-  correct_guess: "Σωστά!"
-  incorrect_guess: "Λάθος. Η σωστή απάντηση είναι: "
+  prompt_range_start: "Entrez le premier nombre à partir du quel générer des nombres aléatoires:"
+  prompt_range_end: "Entrez le dernier nombre à partir du quel générer des nombres aléatoires:"
+  prompt_amount: "Entrez le nombre des nombres aléatoires à générer:"
+  prompt_time_delay: "Entre le temps d’attente entre l’apparition de chaque nombre:"
+  prompt_guess: "Qu'avez vous trouvé?"
+  correct_guess: "Correct, félicitations!!!"
+  incorrect_guess: "Faux, la réponse correcte est: "
